@@ -30,7 +30,7 @@ A comprehensive web application featuring:
 
 ## 🎪 Live Demo
 
-*Screenshots of my implementation will be added here*
+*Screenshots of my implementation*
 
 ![App Demo 1](assets/llm_new_1.png)
 ![App Demo 2](assets/llm_new_2.png)
@@ -87,7 +87,7 @@ This codebase is thoughtfully organized into logical components, each serving a 
 ### Step 1: Environment Setup
 ```bash
 # Clone and setup
-git clone <repo-url>
+git clone https://github.com/Saivivekmulukuri/Build-LLM-from-Scratch.git
 cd Build-LLM-from-Scratch
 
 # Conda environment (recommended)
